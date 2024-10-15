@@ -10,3 +10,5 @@
 <p>Most of the values for columns 'start_lon', 'start_lat', 'end_lon', 'end_lat' were NaN. Hence we dropped these columns.</p>
 <p>We had converted the 'start_at', 'ended_at' columns to Data_time datatype.</p>
 <p>Added new column 'ride_Journey' which is the total time took for the journey in Minutes</p>
+<h2>Data Visualization</h2>
+<p>I had used PowerBI to visualize my final processed data and grasp some patterns and habits of differnet riders.</p>
