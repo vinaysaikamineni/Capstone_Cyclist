@@ -7,6 +7,6 @@
 <p>The size of Dataset after extracting is of 10Gb, the original dataset were in zip files. We have the ride data of decade. We are filtering the data to latest 12 months ride data. This is the raw data for our data analysis. </p>
 <href>
 <h3>Data Cleaning and Transformation</h3>
-<p>Most of the values for columns 'start_lon', 'start_lat', 'end_lon', 'end_lat' were NaN. Hence we dropped these columns.</p><br>
-<p>We had converted the 'start_at', 'ended_at' columns to Data_time datatype.</p><br>
+<p>Most of the values for columns 'start_lon', 'start_lat', 'end_lon', 'end_lat' were NaN. Hence we dropped these columns.</p>
+<p>We had converted the 'start_at', 'ended_at' columns to Data_time datatype.</p>
 <p>Added new column 'ride_Journey' which is the total time took for the journey in Minutes</p>
