@@ -10,7 +10,7 @@
 <div>
 <h2>Recommendations to Increase Annual Memberships</h2>
 
-Based on the analysis of Cyclistic's bike usage data, we present the following recommendations to increase annual memberships, particularly among casual riders who currently comprise 42.3% of total riders.
+Based on the analysis of Cyclistic's bike usage data,we present the following recommendations to increase annual memberships, particularly among casual riders who currently comprise 42.3% of total riders.
 
 ## 1. Incentivize Frequent Riders
 - **Target Group**: Casual riders with longer journey times.
