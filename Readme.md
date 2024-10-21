@@ -12,3 +12,5 @@
 <p>Added new column 'ride_Journey' which is the total time taken for the journey in Minutes</p>
 <h2>Data Visualization</h2>
 <p>I used PowerBI to visualize my final processed data and grasp some patterns and habits of different riders.</p>
+
+<h3>All the Data Analysis and insights were saved as </h3> https://github.com/vinaysaikamineni/Capstone_Cyclist/blob/main/DataAnalysis_and_Insights.md
